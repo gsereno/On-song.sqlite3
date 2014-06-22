@@ -1,46 +1,37 @@
 {t: Ulupalakua}
 {su: John Pi'ilani Watkins}
 {Key: G}
-{flow: Intro, Verse 1, Vamp, Verse 2, Instrumental, Outro}
+{tempo: 120}
+{flow: Intro, Verse 1, Vamp, Instrumental, Verse 2, Vamp, Instrumental, Verse 3, Outro}
 
 Intro: A7 D7 G 2X
 
-Verse 1
+Verse 1:
+      G              G7   C                G
+Kaulana  mai   nei,  Aʻo ʻUlupalakua
+E7                          A7   D7                      G
+He ʻ ī-niki-niki ahi-ahi, Ka home aʻo paniolo
 
-	G            G7
-Kaulana  mai   nei
-C           G
-Aʻo ʻUlupalakua
-E7                 A7
-He ʻ ī-niki-niki ahi-ahi
-D7               G
-Ka home aʻo paniolo
+Vamp:
+[A7][D7][G7]
 
-Vamp: | A7 | D7 | G | :||
+Instrumental:
+Patrick
 
-Instrumental
+Verse 2:
+        G                G7  C                 G
+E wehi e kuʻu lei,      Aʻo ʻUlupalakua
+E7                       A7        D7                   G
+ʻOnaona me ka ʻawapuhi,  He nani maʻoli nō
 
-Verse 2
-	G             G7
-E wehi e kuʻu lei
-C           G
-Aʻo ʻUlupalakua
-E7              A7
-ʻOnaona me ka ʻawapuhi
-D7             G
-He nani maʻoli nō
+Instrumental:
+Patrick
 
-Instrumental (Patrick)
+Verse 3:
+     G                        G7  C                G
+Haʻina mai ka puana,      Aʻo ʻUlupalakua
+E7                          A7       D7                     G
+He ʻ ī-niki-niki ahi-ahi,      Ka home aʻo paniolo
 
-Verse 3
-	G                G7
-Haʻina mai ka puana
-C           G
-Aʻo ʻUlupalakua
-E7                 A7
-He ʻ ī-niki-niki ahi-ahi
-D7              G
-Ka home aʻo paniolo
-
-Outro
-A7(4) D7(4) G(4) E7(4) A7(4) D7(4) G(4) | G(1↓) Eb7#9(1↓)G |
+Outro:
+A7(2)  D7(2)  G(4)  E7(2)  A7(2)  D7(2)  G(4)  G(2)  EB7#9(1db)  G(ho)
