@@ -30,4 +30,4 @@ Verse 5
 Now don't [C7] forget what I have taught you', on the [F] beach at [C#7] Waikiki [F]  [C7]
 
 Outro
-[G7]	[C7]	[F]	[D7]	[G7]	[C7]  [(TAG)↓F]	[↑C6]	[F]
+[G7]	[C7]	[F]	[D7]	[G7]	[C7]  [(TAG)↓F]	[↑C6]	[F]export EDITOR="/usr/local/bin/mate -w"
