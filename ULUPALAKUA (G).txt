@@ -1,0 +1,46 @@
+{t: Ulupalakua}
+{su: John Pi'ilani Watkins}
+{Key: G}
+{flow: Intro, Verse 1, Vamp, Verse 2, Instrumental, Outro}
+
+Intro: A7 D7 G 2X
+
+Verse 1
+
+	G            G7
+Kaulana  mai   nei
+C           G
+Aʻo ʻUlupalakua
+E7                 A7
+He ʻ ī-niki-niki ahi-ahi
+D7               G
+Ka home aʻo paniolo
+
+Vamp: | A7 | D7 | G | :||
+
+Instrumental
+
+Verse 2
+	G             G7
+E wehi e kuʻu lei
+C           G
+Aʻo ʻUlupalakua
+E7              A7
+ʻOnaona me ka ʻawapuhi
+D7             G
+He nani maʻoli nō
+
+Instrumental (Patrick)
+
+Verse 3
+	G                G7
+Haʻina mai ka puana
+C           G
+Aʻo ʻUlupalakua
+E7                 A7
+He ʻ ī-niki-niki ahi-ahi
+D7              G
+Ka home aʻo paniolo
+
+Outro
+A7(4) D7(4) G(4) E7(4) A7(4) D7(4) G(4) | G(1↓) Eb7#9(1↓)G |
