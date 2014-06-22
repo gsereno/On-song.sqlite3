@@ -1,37 +1,36 @@
-{t: Ulupalakua}
-{su: John Pi'ilani Watkins}
+{t: ULUPALAKUA}
+{su: Composer: John Pi'ilani Watkins - 1947}
 {Key: G}
 {tempo: 120}
-{flow: Intro, Verse 1, Vamp, Instrumental, Verse 2, Vamp, Instrumental, Verse 3, Outro}
+{flow: Intro, Verse 1, Verse 1, Instrumental, Verse 2, Verse 2, Instrumental, Verse 3, Verse 3, Outro}
+{define: Eb7#9 base-fret 0 frets x 1 2 1}
 
-Intro: A7 D7 G 2X
+Intro:
+[[A7](2)  [D7](2) [G7](4)  [A7](2)  [D7](2) [G7](4)
 
 Verse 1:
-      G              G7   C                G
-Kaulana  mai   nei,  Aʻo ʻUlupalakua
-E7                          A7   D7                      G
-He ʻ ī-niki-niki ahi-ahi, Ka home aʻo paniolo
-
-Vamp:
-[A7][D7][G7]
+[G]Kaulana mai n[G7]ei,  [C]Aʻo ʻUlupala[G]kua
+[E7]Heʻ ī-niki-niki [A7]ahi-ahi, [D7]Ka home aʻo panio[G]lo
+[A7](2)  [D7](2) [G7](4)
 
 Instrumental:
 Patrick
 
 Verse 2:
-        G                G7  C                 G
-E wehi e kuʻu lei,      Aʻo ʻUlupalakua
-E7                       A7        D7                   G
-ʻOnaona me ka ʻawapuhi,  He nani maʻoli nō
+[G]E wehi e kuʻu lei,[G7]  [C]Aʻo ʻUlupalak[G]ua
+[E7]ʻOnaona me ka ʻ[A7]awapuhi,  [D7]He nani maʻoli [G]nō
+[A7](2)  [D7](2) [G7](4)
 
 Instrumental:
 Patrick
 
 Verse 3:
-     G                        G7  C                G
-Haʻina mai ka puana,      Aʻo ʻUlupalakua
-E7                          A7       D7                     G
-He ʻ ī-niki-niki ahi-ahi,      Ka home aʻo paniolo
+Haʻ[G]ina mai ka pu[G7]ana, [C]Aʻo ʻUlupalak[G]ua
+[E7]Heʻ ī-niki-niki [A7]ahi-ahi, [D7]Ka home aʻo panio[G]lo
+[A7](2)  [D7](2) [G7](4)
 
 Outro:
-A7(2)  D7(2)  G(4)  E7(2)  A7(2)  D7(2)  G(4)  G(2)  EB7#9(1db)  G(ho)
+[A7](2)  [D7](2)  [G](4)  [E7](2)  [A7](2)  [D7](2)  [G](4)  [G](2)  [Eb7#9](↓)  [G](ho)
+
+Vamp:
+[A7](2)  [D7](2) [G7](4)
