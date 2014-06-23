@@ -1,33 +1,35 @@
 {t: ON THE BEACH AT WAIKIKI}
-{su: Herbert Howells}
+{su: Composer Henery Kailimai - 1915}
 {Key: F}
-{flow: Intro, Verse 1, Verse 2, Instrumental, Verse 3, Verse 4, Verse 5, Outro}
+{time: 4/4}
+{tempo: 120}
+{flow: Intro, Verse 1, Verse 1, Verse 2, Verse 2, Instrumental, Verse 3, Verse 3, Verse 4, Verse 4, Verse 5, Verse 5, Outro}
 
-Intro
-[G7]	[C7]	[F]	[G7]	[C7]	[F]
+Intro:
+[G7](2) [C7](2) [F](4) [G7](2) [C7](2) [F](4)
 
-Verse 1
-[F]'Honi kaua wikiwiki' Sweet brown maiden [G7]said to me
-As she [C7]gave me language lessons On the [F]beach at [C#7]Waikiki [F]		[C7]
+Verse 1:
+[F]'Honi kaua wikiwiki' Sweet brown [G7]maiden said to me
+As she [C7]gave me language lessons On the [F]beach at [C#7]Waikiki [F]   [C7]
 
-Verse 2
+Verse 2:
 [F] 'Honi kaua wikiwiki', she then [G7] said and smiled in glee
-But she [C7] would not translate for me, on the [F] beach at [C#7] Waikiki [F]  [C7]
+But she [C7] would not translate for me, on the [F] beach at [C#7] Waikiki [F]   [C7]
 
-Instrumental
-F G7  C7 F  C#7  F  C7
+Instrumental:
+[F] [G7]  [C7] [F]  [C#7]  [F]  [C7]
 
-Verse 3
+Verse 3:
 [F]'Honi kaua wikiwiki',  She re- [G7] peated playfully
-Oh those [C7] lips were so inviting, on the [F] beach at [C#7] Waikiki [F]  [C7]
+Oh those [C7] lips were so inviting, on the [F] beach at [C#7] Waikiki [F]   [C7]
 
-Verse 4
+Verse 4:
 [F]'Honi kaua wikiwiki', She was [G7] surely teasing me
-So I [C7] caught that maid and kissed her on the [F] beach at [C#7] Waikiki [F]  [C7]
+So I [C7] caught that maid and kissed her on the [F] beach at [C#7] Waikiki [F]   [C7]
 
-Verse 5
+Verse 5:
 [F]'Honi kaua wikiwiki', You have [G7] learned it perfectly
-Now don't [C7] forget what I have taught you', on the [F] beach at [C#7] Waikiki [F]  [C7]
+Now don't [C7] forget what I have taught you', on the [F] beach at [C#7] Waikiki [F]   [C7]
 
-Outro
-[G7]	[C7]	[F]	[D7]	[G7]	[C7]  [(TAG)↓F]	[↑C6]	[F]
+Outro:
+[G7][C7][F][D7][G7][C7][F][(TAG)↓F][↑C6][F]

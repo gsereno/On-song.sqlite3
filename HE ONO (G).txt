@@ -1,47 +1,44 @@
-title: HE ONO}
+{t: HE ONO}
 {artist: Bina Mossman (1961)}
-{c: Written in 1961}
 {key: G}
-{tempo: 140}
-{flow: Intro, Verse 1, Vamp, Verse 1, Vamp, Instrumental 1, Vamp, Verse 2, Vamp, Verse 2, Vamp, Instrumental 2:, Vamp, Verse 3, Vamp, Verse 3, Vamp, Outro}
+{tempo: 110}
+{flow: Intro, Verse 1, Chorus 1, Verse 1, Chorus 1, Instrumental, Verse 3, Chorus 2, Verse 3, Chorus 2, Outro}
 {time: 4/4}
+{define: Eb7#9 base-fret 0 frets x 1 2 1}
 {book: DG Playlist}
-He ‘Ono (G)
 
-INTRO
-| D7 | D7 | D7 | D7 | Tacet | G |
+Intro:
+[D7]  [D7]  [D7] [D7] Tacet [G]
+[D7]  [D7]  [D7] [D7] Tacet [G]
 
-Verse 1
-     G
-He keu a ka ʻono ma ke alopiko lā
-Mai piʻikoi ʻoe i ke akule lā
-           C
-Kahi momona piko lā nenue lā
-A he iʻa ʻāhaʻi i ka hohonu lā
-                G
-Lihaliha wale ke momoni aku lā
-Hoʻi iho ʻoe i kahi ʻanae lā
+Verse 1:
+He [G]keu a ka ʻono ma ke alopiko lā
+Kahi [C]momona piko lā nenue lā, Lihaliha [G]wale ke momoni aku lā
+ʻO ka ʻoʻio halale ke kai lā, ʻO ka [C]ʻopelu e pepenu ana lāʻ
 
-ʻO ka ʻoʻio halale ke kai lā
-Me ka manini pūlehu `ia lā
-            C
-ʻO ka ʻopelu e pepenu ana lā ʻO ke kole ē ka iʻa maka onaona lā
-               G                D7                   G
-He ʻono tomi no hoʻi tau i to puʻu te momoni aku
-      D7                                            G
-2X He ʻono a heʻ ono a he ʻono ʻiʻo no   a he ʻono no
-D.C.
-G
-Sure make a beef stew heavy on the extra salad,
-                      C
-Two scoops rice on a hamburger bun,
-                 G
-Hot dog, kim chee, chili pepper water,  akule, aku, mahimahi sandwich
-                  C
-Top it all off with the Kikoman Shoyu
-               G                D7                   G
-He ʻono tomi no hoʻi tau i to pu'u te momoni aku
-       D7                                          G
-2X Manapua, manapua pepeau okole a he ʻono no
+Chorus 1:
+[C]He ʻono [G]tomi no hoʻi tau i [D7]to puʻu te momoni [G]aku
+[D7]He ʻono a heʻ ono a he ʻono ʻiʻo no (Tacet) a he [G]ʻono no
+[D7]He ʻono a heʻ ono a he ʻono ʻiʻo no (Tacet) a he [G]ʻono no
 
-OUTRO:   | C9  |  G  | D7 | G↓Eb7#9  G  |
+Verse 2:
+Mai [G]piʻikoi ʻoe i ke akule lā
+A he iʻa [C]ʻāhaʻi i ka hohonu lā, Hoʻi iho [G]ʻoe i kahi ʻanae lā
+Me ka manini pūlehu `ia lā, O ke k[C]ole ē ka iʻa maka onaona lā
+
+Instrumental:
+Play verse 1 chords and chorus once
+
+Verse 3:
+[G]Sure make a beef stew heavy on the extra salad
+Two scoops [C]rice on a hamburger bun,
+Hot dog, [G]kim chee, chili pepper water akule, aku, mahimahi sandwich
+Top it all [C]off with the Kikoman Shoyu
+
+Chorus 2:
+He ʻono [G]tomi no hoʻi tau i [D7]to puʻu te momoni [G]aku
+[D7]Manapua, manapua pepeau okole (Tacet) a he ʻono [G]no
+[D7]Manapua, manapua pepeau okole (Tacet) a he ʻono [G]no
+
+Outro:
+[C9](4) [G](4) [D7](4) [G](4) [G](1) [Eb7#9](1) [G](1)
